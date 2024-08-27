@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MemoryRush</string>
+    <string name="highscores">Highscores</string>
+    <string name="score_0">Score: 0</string>
+    <string name="level_1">Level 1</string>
+    <string name="_5">❤️ 5</string>
+    <string name="_2_paare_hintereinander_falsch">2 Paare hintereinander falsch!!!</string>
+    <string name="_60">60</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="play">Play</string>
+    <string name="rules">Rules</string>
+    <string name="Highscores">Highscores</string>
+    <string name="logout">Logout</string>
+    <string name="Email">Email</string>
+    <string name="username">Username</string>
+    <string name="passwort">Passwort</string>
+    <string name="passwort_best_tigen">Passwort bestätigen</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="welcome_to_memoryrush">Welcome to MemoryRush!</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="_1">1.</string>
+    <string name="Username">Username</string>
+    <string name="level_10">Level: 10</string>
+    <string name="zeit_2_min_30_sek">Zeit: 2 Min 30 Sek</string>
+    <string name="score_1000">Score: 1000</string>
+</resources>

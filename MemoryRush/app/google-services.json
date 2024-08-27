@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "738351244420",
+    "firebase_url": "https://memoryrush-b07bc-default-rtdb.firebaseio.com",
+    "project_id": "memoryrush-b07bc",
+    "storage_bucket": "memoryrush-b07bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738351244420:android:d475473841b675c0908ed1",
+        "android_client_info": {
+          "package_name": "com.example.memoryrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26Ku4h2KQyF6H4e0-MmLBktfilN7Kodo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738351244420:android:e2ce8cbe254c6534908ed1",
+        "android_client_info": {
+          "package_name": "com.example.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26Ku4h2KQyF6H4e0-MmLBktfilN7Kodo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
